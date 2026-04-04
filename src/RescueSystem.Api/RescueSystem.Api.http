@@ -1,0 +1,6 @@
+@RescueSystem.Api_HostAddress = http://localhost:5074
+
+GET {{RescueSystem.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

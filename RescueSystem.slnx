@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="clean_architecture.md" />
+    <File Path="cqrs.md" />
+    <File Path="entities.md" />
+  </Folder>
+  <Folder Name="/setup/">
+    <File Path=".gitinore" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/RescueSystem.Api/RescueSystem.Api.csproj" Id="004e0af3-61c4-4d01-bc60-5435bce0437c" />
+    <Project Path="src/RescueSystem.Application/RescueSystem.Application.csproj" Id="1bd5a1bd-680b-495c-b535-57ee22deb8bb" />
+    <Project Path="src/RescueSystem.Domain/RescueSystem.Domain.csproj" Id="92f46e5d-ec4c-4c29-88f1-69c85b75e24c" />
+    <Project Path="src/RescueSystem.Infrastructure/RescueSystem.Infrastructure.csproj" Id="5b59d424-4627-417a-9f75-90ab20ddaabd" />
+  </Folder>
+</Solution>
