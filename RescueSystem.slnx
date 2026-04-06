@@ -1,11 +1,10 @@
 <Solution>
   <Folder Name="/docs/">
-    <File Path="clean_architecture.md" />
     <File Path="cqrs.md" />
+    <File Path="docs/clean_architecture.md" />
     <File Path="entities.md" />
   </Folder>
   <Folder Name="/setup/">
-    <File Path=".gitinore" />
     <File Path="README.md" />
   </Folder>
   <Folder Name="/src/">
